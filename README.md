@@ -32,7 +32,7 @@ This project includes the following components:
 - Trained Model Files (model.json and model_weights.h5)  
 - Project Documentation (Report)  
 - User Interface Screenshots  
-- Demo Video Link  
+- Demo Video Link - https://www.loom.com/share/673d0fec02e444bfa3e1711dd1b886c8
 
 
 
