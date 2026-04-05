@@ -24,5 +24,16 @@ This project is an AI-based web application that detects plant diseases from lea
 3. Run: python manage.py runserver
 4. Open: http://127.0.0.1:8000/
 
+## 📌 Note
+
+This project includes the following components:
+
+- Source Code  
+- Trained Model Files (model.json and model_weights.h5)  
+- Project Documentation (Report)  
+- User Interface Screenshots  
+- Demo Video Link  
+
+
 
 
